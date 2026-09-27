@@ -1,0 +1,572 @@
+[
+    {
+        "name": "AmbientSounds",
+        "url": "https://modrinth.com/mod/fM515JnW",
+        "version": "6.3.8",
+        "side": "Client"
+    },
+    {
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV",
+        "version": "2.5.1+mc1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "9.2.14",
+        "side": "Both"
+    },
+    {
+        "name": "Artifacts",
+        "url": "https://modrinth.com/mod/P0Mu4wcQ",
+        "version": "9.5.19",
+        "side": "Both"
+    },
+    {
+        "name": "Athena",
+        "url": "https://modrinth.com/mod/b1ZV3DIJ",
+        "version": "3.1.2",
+        "side": "Client"
+    },
+    {
+        "name": "AttributeFix",
+        "url": "https://www.curseforge.com/projects/280510",
+        "version": "21.0.5",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "Backpacked",
+        "url": "https://www.curseforge.com/projects/352835",
+        "version": "3.0.9",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "BaguetteLib",
+        "url": "https://modrinth.com/mod/OfKzpbRU",
+        "version": "2.0.7",
+        "side": "Server"
+    },
+    {
+        "name": "Barebones McQoy",
+        "url": "https://modrinth.com/mod/tNmWwdI2",
+        "version": "0.4.1+forge-1.20",
+        "side": "Client"
+    },
+    {
+        "name": "Better Combat",
+        "url": "https://modrinth.com/mod/5sy6g3kz",
+        "version": "1.9.0+1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Biomes O' Plenty",
+        "url": "https://modrinth.com/mod/HXF82T3G",
+        "version": "19.0.0.96",
+        "side": "Both"
+    },
+    {
+        "name": "Blue Skies",
+        "url": "https://modrinth.com/mod/DOSy3C4M",
+        "version": "1.3.31",
+        "side": "Both"
+    },
+    {
+        "name": "Blueprint",
+        "url": "https://modrinth.com/mod/VsM5EDoI",
+        "version": "7.1.5",
+        "side": "Both"
+    },
+    {
+        "name": "Canary",
+        "url": "https://modrinth.com/mod/qa2H4BS9",
+        "version": "0.3.3",
+        "side": "Both"
+    },
+    {
+        "name": "Chipped",
+        "url": "https://modrinth.com/mod/BAscRYKm",
+        "version": "3.0.7",
+        "side": "Both"
+    },
+    {
+        "name": "Citadel",
+        "url": "https://modrinth.com/mod/jJfV67b1",
+        "version": "2.6.3",
+        "side": "Both"
+    },
+    {
+        "name": "ClientSort",
+        "url": "https://modrinth.com/mod/K0AkAin6",
+        "version": "3.82.1",
+        "side": "Both"
+    },
+    {
+        "name": "Cloth Config v10 API",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "11.1.136",
+        "side": "Both"
+    },
+    {
+        "name": "Clumps",
+        "url": "https://modrinth.com/mod/Wnxd13zP",
+        "version": "12.0.0.4",
+        "side": "Both"
+    },
+    {
+        "name": "Combat Roll",
+        "url": "https://modrinth.com/mod/wGKYL7st",
+        "version": "1.3.3+1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Continuity",
+        "url": "https://modrinth.com/mod/1IjD5062",
+        "version": "3.0.0+1.20.1.forge",
+        "side": "Client"
+    },
+    {
+        "name": "Controlling",
+        "url": "https://modrinth.com/mod/xv94TkTM",
+        "version": "12.0.2",
+        "side": "Client"
+    },
+    {
+        "name": "Corpse",
+        "url": "https://modrinth.com/mod/WrpuIfhw",
+        "version": "1.20.1-1.0.23",
+        "side": "Both"
+    },
+    {
+        "name": "Corpse Curios Compatibility",
+        "url": "https://modrinth.com/mod/pJGcKPh1",
+        "version": "4.0.1",
+        "side": "Server"
+    },
+    {
+        "name": "CreativeCore",
+        "url": "https://modrinth.com/mod/OsZiaDHq",
+        "version": "2.12.39",
+        "side": "Both"
+    },
+    {
+        "name": "Cristel Lib",
+        "url": "https://modrinth.com/mod/cl223EMc",
+        "version": "1.1.6",
+        "side": "Both"
+    },
+    {
+        "name": "Critters and Companions",
+        "url": "https://modrinth.com/mod/Yd4wb5wZ",
+        "version": "2.7.1",
+        "side": "Both"
+    },
+    {
+        "name": "Cupboard utilities",
+        "url": "https://www.curseforge.com/projects/326652",
+        "version": "1.20.1-4.2",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "Curios API",
+        "url": "https://modrinth.com/mod/vvuO3ImH",
+        "version": "5.14.1+1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Dynamic FPS",
+        "url": "https://modrinth.com/mod/LQ3K71Q1",
+        "version": "3.11.4",
+        "side": "Client"
+    },
+    {
+        "name": "Embeddium",
+        "url": "https://modrinth.com/mod/sk9rgfiA",
+        "version": "0.3.31+mc1.20.1",
+        "side": "Client"
+    },
+    {
+        "name": "Entity Model Features",
+        "url": "https://modrinth.com/mod/4I1XuqiY",
+        "version": "3.3.9",
+        "side": "Client"
+    },
+    {
+        "name": "Entity Texture Features",
+        "url": "https://modrinth.com/mod/BVzZfTc1",
+        "version": "7.2.4",
+        "side": "Client"
+    },
+    {
+        "name": "EntityCulling",
+        "url": "https://modrinth.com/mod/NNAgCjsB",
+        "version": "1.11.1",
+        "side": "Client"
+    },
+    {
+        "name": "Environmental",
+        "url": "https://modrinth.com/mod/OqtiAZcV",
+        "version": "4.1.2",
+        "side": "Both"
+    },
+    {
+        "name": "Explorify",
+        "url": "https://modrinth.com/mod/HSfsxuTo",
+        "version": "1.6.5",
+        "side": "Both"
+    },
+    {
+        "name": "Fallingleaves",
+        "url": "https://modrinth.com/mod/2JAUNCL4",
+        "version": "2.1.2",
+        "side": "Client"
+    },
+    {
+        "name": "Farmer's Delight",
+        "url": "https://modrinth.com/mod/R2OftAxM",
+        "version": "1.20.1-1.3.4",
+        "side": "Both"
+    },
+    {
+        "name": "Ferrite Core",
+        "url": "https://modrinth.com/mod/uXXizFIs",
+        "version": "6.0.1",
+        "side": "Both"
+    },
+    {
+        "name": "FlickerFix",
+        "url": "https://www.curseforge.com/projects/431430",
+        "version": "4.0.1",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "Forgified Fabric API",
+        "url": "https://modrinth.com/mod/Aqlf1Shp",
+        "version": "0.92.6+1.11.15+1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Framework",
+        "url": "https://www.curseforge.com/projects/549225",
+        "version": "0.8.0",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "Fzzy Config",
+        "url": "https://modrinth.com/mod/hYykXjDp",
+        "version": "0.7.7+1.20.1+forge",
+        "side": "Both"
+    },
+    {
+        "name": "GeckoLib 4",
+        "url": "https://modrinth.com/mod/8BmcQJ2H",
+        "version": "4.8.4",
+        "side": "Both"
+    },
+    {
+        "name": "GlitchCore",
+        "url": "https://modrinth.com/mod/s3dmwKy5",
+        "version": "0.0.1.1",
+        "side": "Both"
+    },
+    {
+        "name": "Gpu memory leak fix",
+        "url": "https://www.curseforge.com/projects/882495",
+        "version": "1.20.1-1.8",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "HT's TreeChop",
+        "url": "https://modrinth.com/mod/gHoB7SHO",
+        "version": "0.18.8",
+        "side": "Both"
+    },
+    {
+        "name": "Handcrafted",
+        "url": "https://modrinth.com/mod/pJmCFF0p",
+        "version": "3.0.6",
+        "side": "Both"
+    },
+    {
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/5ZwdcRci",
+        "version": "1.5.5+1.20.4",
+        "side": "Client"
+    },
+    {
+        "name": "Jade",
+        "url": "https://modrinth.com/mod/nvQzSEkH",
+        "version": "11.13.3+forge",
+        "side": "Both"
+    },
+    {
+        "name": "Kotlin for Forge",
+        "url": "https://modrinth.com/mod/ordsPcFz",
+        "version": "Zsh14XeQ",
+        "side": "Both"
+    },
+    {
+        "name": "Krypton Reforged",
+        "url": "https://www.curseforge.com/projects/549394",
+        "version": "0.2.3",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "Lootr",
+        "url": "https://modrinth.com/mod/EltpO5cN",
+        "version": "0.7.35.94",
+        "side": "Both"
+    },
+    {
+        "name": "MapSyncer",
+        "url": "https://modrinth.com/mod/AW5A8Q2T",
+        "version": "1.0.3",
+        "side": "Both"
+    },
+    {
+        "name": "Memory Leak Fix",
+        "url": "https://modrinth.com/mod/NRjRiSSD",
+        "version": "1.1.5",
+        "side": "Both"
+    },
+    {
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/nmDcB62a",
+        "version": "5.27.83+mc1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/aC3cM3Vq",
+        "version": "2.25.1",
+        "side": "Client"
+    },
+    {
+        "name": "Naturalist",
+        "url": "https://modrinth.com/mod/F8BQNPWX",
+        "version": "5.0pre4",
+        "side": "Both"
+    },
+    {
+        "name": "No Chat Reports",
+        "url": "https://modrinth.com/mod/qQyHxfxd",
+        "version": "1.20.1-v2.2.3",
+        "side": "Both"
+    },
+    {
+        "name": "ObsidianUI",
+        "url": "https://modrinth.com/mod/E0L8mfJZ",
+        "version": "0.2.3+mc1.20.1",
+        "side": "Client"
+    },
+    {
+        "name": "Oculus",
+        "url": "https://modrinth.com/mod/GchcoXML",
+        "version": "1.8.0",
+        "side": "Client"
+    },
+    {
+        "name": "Ok Zoomer",
+        "url": "https://modrinth.com/mod/aXf2OSFU",
+        "version": "5.4.0-beta.9",
+        "side": "Client"
+    },
+    {
+        "name": "Particle Core",
+        "url": "https://modrinth.com/mod/RSeLon5O",
+        "version": "0.3.3+1.20.1+forge",
+        "side": "Client"
+    },
+    {
+        "name": "Particle Rain",
+        "url": "https://modrinth.com/mod/nrikgvxm",
+        "version": "4.0.0-beta.11",
+        "side": "Client"
+    },
+    {
+        "name": "Player Animator",
+        "url": "https://modrinth.com/mod/gedNE4y2",
+        "version": "1.0.2-rc1+1.20",
+        "side": "Both"
+    },
+    {
+        "name": "Polymorph",
+        "url": "https://modrinth.com/mod/tagwiZkJ",
+        "version": "0.49.11+1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Resourceful Lib",
+        "url": "https://modrinth.com/mod/G1hIVOrD",
+        "version": "2.1.29",
+        "side": "Both"
+    },
+    {
+        "name": "Ribbits",
+        "url": "https://modrinth.com/mod/8YcE8y4T",
+        "version": "1.20.1-Forge-3.0.5",
+        "side": "Both"
+    },
+    {
+        "name": "Roughly Enough Items (REI)",
+        "url": "https://modrinth.com/mod/nfn13YXA",
+        "version": "12.1.785",
+        "side": "Both"
+    },
+    {
+        "name": "RyoamicLights",
+        "url": "https://modrinth.com/mod/reCfnRvJ",
+        "version": "0.2.3+mc1.20.1",
+        "side": "Client"
+    },
+    {
+        "name": "Searchables",
+        "url": "https://modrinth.com/mod/fuuu3xnx",
+        "version": "1.0.3",
+        "side": "Client"
+    },
+    {
+        "name": "Serene Seasons",
+        "url": "https://modrinth.com/mod/e0bNACJD",
+        "version": "9.1.0.3",
+        "side": "Both"
+    },
+    {
+        "name": "Simply Swords",
+        "url": "https://modrinth.com/mod/bK3Ubu9p",
+        "version": "1.70.2-1.20.1",
+        "side": "Both"
+    },
+    {
+        "name": "Simply Tooltips",
+        "url": "https://modrinth.com/mod/6avVoBVB",
+        "version": "0.1.5-1.20.1",
+        "side": "Client"
+    },
+    {
+        "name": "Sinytra Connector",
+        "url": "https://modrinth.com/mod/u58R1TMW",
+        "version": "1MQDrKN7",
+        "side": "Both"
+    },
+    {
+        "name": "Sound Physics Remastered",
+        "url": "https://modrinth.com/mod/qyVF9oeo",
+        "version": "1.20.1-1.5.1",
+        "side": "Both"
+    },
+    {
+        "name": "Structure Gel API",
+        "url": "https://modrinth.com/mod/T8TGycIQ",
+        "version": "2.16.2",
+        "side": "Both"
+    },
+    {
+        "name": "TerraBlender",
+        "url": "https://modrinth.com/mod/kkmrDlKT",
+        "version": "3.0.1.10",
+        "side": "Both"
+    },
+    {
+        "name": "The Aether",
+        "url": "https://modrinth.com/mod/YhmgMVyu",
+        "version": "1.20.1-1.5.2-neoforge",
+        "side": "Both"
+    },
+    {
+        "name": "The Graveyard",
+        "url": "https://modrinth.com/mod/U1jdQuSf",
+        "version": "3.1",
+        "side": "Both"
+    },
+    {
+        "name": "The Twilight Forest",
+        "url": "https://www.curseforge.com/projects/227639",
+        "version": "4.3.2508",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "Towns and Towers",
+        "url": "https://modrinth.com/mod/DjLobEOy",
+        "version": "1.12",
+        "side": "Both"
+    },
+    {
+        "name": "Very Many Players",
+        "url": "https://modrinth.com/mod/LlSMGYzF",
+        "version": "0.2.0+beta.7.101",
+        "side": "Both"
+    },
+    {
+        "name": "Xaero's Minimap",
+        "url": "https://modrinth.com/mod/1bokaNcj",
+        "version": "26.5.0",
+        "side": "Both"
+    },
+    {
+        "name": "Xaero's World Map",
+        "url": "https://modrinth.com/mod/NcUtCpym",
+        "version": "1.46.0",
+        "side": "Both"
+    },
+    {
+        "name": "YUNG's API",
+        "url": "https://modrinth.com/mod/Ua7DFN59",
+        "version": "1.20-Forge-4.0.6",
+        "side": "Both"
+    },
+    {
+        "name": "YUNG's Better Caves",
+        "url": "https://modrinth.com/mod/Dfu00ggU",
+        "version": "1.20.1-Forge-2.0.7",
+        "side": "Server"
+    },
+    {
+        "name": "YUNG's Better Dungeons",
+        "url": "https://modrinth.com/mod/o1C1Dkj5",
+        "version": "1.20-Forge-4.0.4",
+        "side": "Server"
+    },
+    {
+        "name": "YUNG's Better Mineshafts",
+        "url": "https://modrinth.com/mod/HjmxVlSr",
+        "version": "1.20-Forge-4.0.4",
+        "side": "Server"
+    },
+    {
+        "name": "YUNG's Better Strongholds",
+        "url": "https://modrinth.com/mod/kidLKymU",
+        "version": "1.20-Forge-4.0.3",
+        "side": "Server"
+    },
+    {
+        "name": "YUNG's Better Witch Huts",
+        "url": "https://modrinth.com/mod/t5FRdP87",
+        "version": "1.20-Forge-3.0.3",
+        "side": "Server"
+    },
+    {
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/1eAoo2KR",
+        "version": "3.6.6+1.20.1-forge",
+        "side": "Both"
+    },
+    {
+        "name": "betterchunkloading mod",
+        "url": "https://www.curseforge.com/projects/899487",
+        "version": "1.20.1-5.4",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "betterfpsdist mod",
+        "url": "https://www.curseforge.com/projects/551520",
+        "version": "1.20.1-6.0",
+        "side": "Both (CurseForge)"
+    },
+    {
+        "name": "clientcrafting mod",
+        "url": "https://www.curseforge.com/projects/888790",
+        "version": "1.20.1-2.1",
+        "side": "Both (CurseForge)"
+    }
+]

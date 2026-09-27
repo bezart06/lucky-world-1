@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Статус сервера и список модов</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="theme-controls">
+            <button class="theme-btn" onclick="setTheme('dark')">Тёмная</button>
+            <button class="theme-btn" onclick="setTheme('light')">Светлая</button>
+            <button class="theme-btn" onclick="setTheme('sepia')">Сепия</button>
+        </div>
+
+        <header>
+            <h1>Lucky World I (Forge)</h1>
+            <p class="subtitle">Актуальный статус и сборка модов для игры</p>
+        </header>
+
+        <section class="server-status">
+            <h2>Статус сервера</h2>
+            <div id="status-box" class="status-box loading">
+                <div class="status-indicator" id="status-dot"></div>
+                <div class="status-info">
+                    <p>IP: <span id="server-ip" class="ip-address">загрузка...</span></p>
+                    <p id="server-state">Проверка статуса...</p>
+                    <p id="server-players"></p>
+                </div>
+            </div>
+        </section>
+
+        <section class="mods-list">
+            <h2>Список модов</h2>
+            <p class="subtitle">Скачайте нужные моды для игры на сервере</p>
+
+            <div class="table-controls">
+                <button class="theme-btn" id="reset-sort-btn" onclick="resetSort()" style="display: none;">Сбросить сортировку</button>
+            </div>
+
+            <div class="table-container">
+                <table id="mods-table">
+                    <thead>
+                        <tr>
+                            <th>Название</th>
+                            <th>Версия</th>
+                            <th class="sortable" onclick="sortByType()" title="Нажмите для сортировки">Тип <span id="sort-icon">↕️</span></th>
+                            <th>Ссылка</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Моды загружаються через JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
